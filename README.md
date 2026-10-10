@@ -9,7 +9,7 @@ curl -sSL https://raw.githubusercontent.com/Nizwarax/Rdp/main/install.sh -o i.sh
 ```
 **2. Stabil (8 VPS Tested):**
 ```bash
-curl -sSL https://raw.githubusercontent.com/Nizwarax/Rdp/main/reinstall.sh -o reinstall.sh && chmod +x reinstall.sh && sudo bash reinstall.sh windows --image-name "Windows Server 2022 SERVERDATACENTER" --lang en --password "Rdp123@@" --allow-ping
+curl -sSL https://raw.githubusercontent.com/Nizwarax/Rdp/main/reinstall.sh -o reinstall.sh && chmod +x reinstall.sh && sudo bash reinstall.sh windows --image-name "Windows Server 2019 SERVERDATACENTER" --lang en --password "Rdp123@@" --allow-ping
 ```
 **3. One Liner (Tanpa download):**
 ```bash
