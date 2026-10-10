@@ -3,7 +3,7 @@
 # Repo: https://github.com/Nizwarax/Rdp
 set -e
 DEFAULT_PASS="Rdp123@@"
-DEFAULT_IMAGE="Windows Server 2022 SERVERDATACENTER"
+DEFAULT_IMAGE="Windows Server 2019 SERVERDATACENTER"
 PASSWORD="$DEFAULT_PASS"
 IMAGE_NAME="$DEFAULT_IMAGE"
 while [[ $# -gt 0 ]]; do
